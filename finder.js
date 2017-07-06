@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 /*eslint-env node*/
 var hacker = require('d2l-hacker');
 

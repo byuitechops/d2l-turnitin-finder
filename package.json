@@ -11,5 +11,9 @@
     "dependencies": {
         "csv-to-table": "git+https://github.com/byuitechops/csv-to-table.git",
         "d2l-hacker": "git+https://github.com/byuitechops/d2l-hacker.git"
+    },
+    "preferGlobal": true,
+    "bin": {
+        "d2l-turnitin-finder": "./finder.js"
     }
 }
