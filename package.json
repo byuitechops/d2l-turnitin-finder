@@ -1,0 +1,15 @@
+{
+    "name": "d2l-turnitin-finder",
+    "version": "1.0.0",
+    "description": "Goes through a list of courses and checks if the course uses Turnitin",
+    "main": "finder.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ashley Stewart",
+    "license": "MIT",
+    "dependencies": {
+        "csv-to-table": "git+https://github.com/byuitechops/csv-to-table.git",
+        "d2l-hacker": "git+https://github.com/byuitechops/d2l-hacker.git"
+    }
+}
